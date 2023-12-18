@@ -4,7 +4,7 @@
 **` Estudiante de Ingeniería informática  (Desarrollador Web, Emprendedor)`** 
 
 
-Soy estudiante de Ingeniería Informática en la Universidad Nacional de Asunción y emprendedor, especializado en el desarrollo de software. Mi enfoque se centra en proporcionar soluciones tecnológicas que impulsen la productividad y eficiencia tanto para empresas como individuos. 
+Estudiante de Ingeniería Informática en la Universidad Nacional de Asunción y emprendedor, especializado en el desarrollo de Web. Mi enfoque es proporcionar soluciones tecnológicas que impulsen la productividad y eficiencia tanto así para empresas como individuos. 
 
 <a href="https://www.linkedin.com/in/caceressergio/"><img width="30px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
  
@@ -21,7 +21,7 @@ Soy estudiante de Ingeniería Informática en la Universidad Nacional de Asunci�
 <img align="left" alt="HMTL5" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
 
 
-<iimg align="left" alt="HMTL5" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+<iimg align="left" alt="CSS3" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
 
 
           
