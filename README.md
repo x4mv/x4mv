@@ -1,7 +1,7 @@
 #  x4mv 
 
 
-**` Estudiante de Ingeniería informática  (Desarrollador Web, Emprendedor)`** 
+
 
 
 
